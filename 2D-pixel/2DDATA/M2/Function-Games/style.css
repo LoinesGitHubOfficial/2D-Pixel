@@ -1,0 +1,1329 @@
+.dixndix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 0%;
+  border: 1px solid white;
+  color: green;
+}
+.neufndix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 0%;
+  border: 1px solid white;
+}
+.huitndix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 0%;
+  border: 1px solid white;
+}
+.septndix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 0%;
+  border: 1px solid white;
+}
+.sixndix {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 0%;
+  border: 1px solid;
+}
+.ciquendix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 0%;
+  border: 1px solid white;
+}
+.quatrendix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 0%;
+  border: 1px solid white;
+}
+.troisndix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 0%;
+  border: 1px solid white;
+}
+.deuxndix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 0%;
+  border: 1px solid white;
+}
+.unndix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 0%;
+  border: 1px solid white;
+}
+
+.dixnneuf {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 10%;
+  border: 1px solid white;
+}
+.neufnneuf {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 10%;
+  border: 1px solid white;
+}
+.huitnneuf {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 10%;
+  border: 1px solid white;
+}
+.septnneuf {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 10%;
+  border: 1px solid white;
+}
+.sixnneuf {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 10%;
+  border: 1px solid white;
+}
+.ciquenneuf {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 10%;
+  border: 1px solid white;
+}
+.quatrenneuf {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 10%;
+  border: 1px solid white;
+}
+.troisnneuf {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 10%;
+  border: 1px solid white;
+}
+.deuxnneuf {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 10%;
+  border: 1px solid white;
+}
+.unnneuf {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 10%;
+  border: 1px solid white;
+}
+
+.dixnhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 20%;
+  border: 1px solid white;
+}
+.neufnhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 20%;
+  border: 1px solid white;
+}
+.huitnhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  position: absolute;
+  background-size: cover;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 20%;
+  border: 1px solid white;
+}
+.septnhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 20%;
+  border: 1px solid white;
+}
+.sixnhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 20%;
+  border: 1px solid white;
+}
+.ciquenhuit {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 20%;
+  border: 1px solid white;
+}
+.quatrenhuit {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 20%;
+  border: 1px solid white;
+}
+.troisnhuit {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 20%;
+  border: 1px solid white;
+}
+.deuxnhuit {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 20%;
+  border: 1px solid white;
+}
+.unnhuit {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 20%;
+  border: 1px solid white;
+}
+
+.dixnsept {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 30%;
+  border: 1px solid white;
+}
+.neufnsept {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 30%;
+  border: 1px solid white;
+}
+.huitnsept {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 30%;
+  border: 1px solid white;
+}
+.septnsept {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 30%;
+  border: 1px solid white;
+}
+.sixnsept {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 30%;
+  border: 1px solid white;
+}
+.ciquensept {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 30%;
+  border: 1px solid white;
+}
+.quatrensept {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 30%;
+  border: 1px solid white;
+}
+.troisnsept {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 30%;
+  border: 1px solid white;
+}
+.deuxnsept {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 30%;
+  border: 1px solid white;
+}
+.unnsept {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 30%;
+  border: 1px solid white;
+}
+
+.dixnsix {
+  width: 10%;
+  height: 10%;
+  padding: 0%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  margin: 0%;
+  top: 90%;
+  left: 40%;
+  border: 1px solid white;
+}
+.neufnsix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 40%;
+  border: 1px solid white;
+}
+.huitnsix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 40%;
+  border: 1px solid white;
+}
+.septnsix {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 40%;
+  border: 1px solid white;
+}
+.sixnsix {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 40%;
+  border: 1px solid white;
+}
+.ciquensix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 40%;
+  border: 1px solid white;
+}
+.quatrensix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 40%;
+  border: 1px solid white;
+}
+.troisnsix {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 40%;
+  border: 1px solid white;
+}
+.deuxnsix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 40%;
+  border: 1px solid white;
+}
+.unnsix {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 40%;
+  border: 1px solid white;
+}
+
+.dixncinq {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 50%;
+  border: 1px solid white;
+}
+.neufncinq {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 50%;
+  border: 1px solid white;
+}
+.huitncinq {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 50%;
+  border: 1px solid white;
+}
+.septncinq {
+  width: 10%;
+  height: 10%;
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 50%;
+  border: 1px solid white;
+}
+.sixncinq {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 50%;
+  border: 1px solid white;
+}
+.ciquencinq {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 50%;
+  border: 1px solid white;
+}
+.quatrencinq {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 50%;
+  border: 1px solid white;
+}
+.troisncinq {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 50%;
+  border: 1px solid white;
+}
+.deuxncinq {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 50%;
+  border: 1px solid white;
+}
+.unncinq {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 50%;
+  border: 1px solid white;
+}
+
+.dixnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 60%;
+  border: 1px solid white;
+}
+.neufnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 60%;
+  border: 1px solid white;
+}
+.huitnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 60%;
+  border: 1px solid white;
+}
+.septnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 60%;
+  border: 1px solid white;
+}
+.sixnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 60%;
+  border: 1px solid white;
+}
+.ciquenquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.wood.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 60%;
+  border: 1px solid white;
+}
+.quatrenquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.wood.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 60%;
+  border: 1px solid white;
+}
+.troisnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 60%;
+  border: 1px solid white;
+}
+.deuxnquatre {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 60%;
+  border: 1px solid white;
+}
+.unnquatre {
+  width: 10%;
+  height: 10%;
+  background: transparent;
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 60%;
+  border: 1px solid white;
+}
+
+.dixntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 70%;
+  border: 1px solid white;
+}
+.neufntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 70%;
+  border: 1px solid white;
+}
+.huitntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 70%;
+  border: 1px solid white;
+}
+.septntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 70%;
+  border: 1px solid white;
+}
+.sixntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.water.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 70%;
+  border: 1px solid white;
+}
+.ciquentrois {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 70%;
+  border: 1px solid white;
+}
+.quatrentrois {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 70%;
+  border: 1px solid white;
+}
+
+.troisntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 70%;
+  border: 1px solid white;
+}
+.deuxntrois {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 70%;
+  border: 1px solid white;
+}
+.unntrois {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 70%;
+  border: 1px solid white;
+}
+.dixndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 80%;
+  border: 1px solid white;
+}
+.neufndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 80%;
+  border: 1px solid white;
+}
+.huitndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 80%;
+  border: 1px solid white;
+}
+.septndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 80%;
+  border: 1px solid white;
+}
+.sixndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.water.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 80%;
+  border: 1px solid white;
+}
+.ciquendeux {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 80%;
+  border: 1px solid white;
+}
+.quatrendeux {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 80%;
+  border: 1px solid white;
+}
+
+.troisndeux {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.feuille.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 80%;
+  border: 1px solid white;
+}
+.deuxndeux {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 80%;
+  border: 1px solid white;
+}
+.unndeux {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 80%;
+  border: 1px solid white;
+}
+.dixnun {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 90%;
+  left: 90%;
+  border: 1px solid white;
+}
+.neufnun {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 80%;
+  left: 90%;
+  border: 1px solid white;
+}
+.huitnun {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 70%;
+  left: 90%;
+  border: 1px solid white;
+}
+.septnun {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 60%;
+  left: 90%;
+  border: 1px solid white;
+}
+.sixnun {
+  width: 10%;
+  height: 10%;
+  background-image: url(../../assets/Textures/Blocks/block.dirt.herbe.png);
+  background-size: cover;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 50%;
+  left: 90%;
+  border: 1px solid white;
+}
+.ciquenun {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 40%;
+  left: 90%;
+  border: 1px solid white;
+}
+.quatrenun {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 30%;
+  left: 90%;
+  border: 1px solid white;
+}
+
+.troisnun {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 20%;
+  left: 90%;
+  border: 1px solid white;
+}
+.deuxnun {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 10%;
+  left: 90%;
+  border: 1px solid white;
+}
+.unnun {
+  width: 10%;
+  height: 10%;
+  background-color: transparent;
+  position: absolute;
+  padding: 0%;
+  margin: 0%;
+  top: 0%;
+  left: 90%;
+  border: 1px solid white;
+}
+body {
+  cursor: crosshair;
+  width: 100%;
+  height: 100%;
+  font-family: "Arial Narrow Bold", sans-serif;
+  background-image: url(../../assets/Textures/Fond/fond-1.png);
+  overflow: hidden;
+}
+.steveleft {
+  z-index: 1000;
+  position: absolute;
+  top: var(--topsteveleft);
+  left: var(--leftsteveleft);
+  transition: 0.5s;
+}
+.h6 {
+  color: black;
+  z-index: 10000000000000000000000000;
+  position: absolute;
+  bottom: -10px;
+  left: 200px;
+  font-size: 200%;
+}
+.button {
+  text-align: center;
+  top: 50%;
+  left: 40%;
+  position: absolute;
+  font-size: 150%;
+  padding: 5%;
+}
+.button:hover {
+  background-color: red;
+}
+#divdead {
+  background-color: red;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.h1 {
+  color: black;
+  text-align: center;
+  font-size: 400%;
+}
+.mobszombie {
+  z-index: 100;
+  position: absolute;
+}
+.block {
+  color: transparent;
+}
+.guiinventory {
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: pointer;
+  top: -1000%;
+  transition: 1s;
+}
+.woodpickaxe {
+  position: absolute;
+  font-size: 400%;
+  z-index: 10000;
+  left: -100%;
+  border: 3px solid black;
+  border-radius: 10%;
+  transition: 1s;
+  top: -5%;
+  margin: none;
+}
+.stonepickaxe {
+  position: absolute;
+  font-size: 400%;
+  z-index: 100000;
+  left: -100%;
+  border: 3px solid black;
+  border-radius: 10%;
+  transition: 1s;
+  top: 12%;
+  margin: none;
+}
+.stonepickaxe:hover {
+  background-color: white;
+}
+.woodpickaxe:hover {
+  background-color: rgb(184, 152, 152);
+}
+.hotbar {
+  position: absolute;
+  z-index: 1000000000;
+  display: block;
+  bottom: 53px;
+  left: 130px;
+}
+.blockgui {
+  position: absolute;
+  z-index: 1000000000;
+  display: block;
+  bottom: 60px;
+  left: 160px;
+  width: 70px;
+}
+.wooodpick {
+  position: absolute;
+  z-index: 1000000000000000;
+  display: block;
+  bottom: 60px;
+  left: 240px;
+  width: 70px;
+}
+.comptwoodpickaxe {
+  color: black;
+  z-index: 1000000000000;
+  position: absolute;
+  left: 280px;
+  bottom: -10px;
+  font-size: 200%;
+}
+.stonepick {
+  position: absolute;
+  z-index: 1000000000000000;
+  display: block;
+  bottom: 60px;
+  left: 315px;
+  width: 70px;
+}
+.comptstonepickaxe {
+  color: black;
+  z-index: 1000000000000;
+  position: absolute;
+  left: 360px;
+  bottom: -10px;
+  font-size: 200%;
+}
+.vie {
+  left: 150px;
+  bottom: 10px;
+  font-size: 500%;
+  position: absolute;
+}
+
+.stone {
+  background: url(../../assets/Textures/Blocks/block.stone.jpg);
+  background-size: cover;
+}

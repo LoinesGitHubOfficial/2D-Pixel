@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: url(../../../../../../../../assetshome/image/2D-Pixel-Logo.png);
+  background-size: 150%;
+  background-position: top;
+}
+
+h2 {
+  position: absolute;
+  top: 180px;
+  color: yellowgreen;
+  left: 400px;
+  transform: rotate(320deg) scale(1.5);
+  font-size: 40px;
+  transition: 1s;
+}
+
+h1 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  font-size: 150px;
+  color: honeydew;
+  text-shadow: 20px 20px 20px black;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  box-shadow: inset -1px -3px rgb(67, 67, 67);
+  font-family: Silkscreen;
+  background-color: rgb(108, 108, 108);
+  border: 1px solid black;
+  padding: 10px 100px;
+  transform: scale(1.5);
+}
+
+button:hover {
+  color: rgb(230, 255, 161);
+  background-color: rgb(106, 106, 176);
+}
+
+button:active {
+  box-shadow: none;
+}

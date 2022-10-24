@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2D-Pixel-Laucher</title>
+    <link rel="stylesheet" href="./2D-pixel/2DDATA/assetshome/style.css" />
+  </head>
+  <body>
+    <div class="content">
+      <button class="PLAY">PLAY</button>
+      <br />
+      <br />
+      <br />
+      <br />
+      <button class="WEB">WEBSITE</button>
+    </div>
+    <main>
+      <h1>2D-Pixel</h1>
+      <h2>2D-Minecraft!!</h2>
+    </main>
+    <script>
+      let ItRew = false;
+      setInterval(() => {
+        if (ItRew == false) {
+          document.querySelector("h2").style.transform =
+            "scale(0.9) rotate(320deg)";
+          ItRew = true;
+        } else {
+          document.querySelector("h2").style.transform =
+            "scale(1.5) rotate(320deg)";
+          ItRew = false;
+        }
+      }, 1000);
+      document.querySelector(".PLAY").addEventListener("click", () => {
+        window.location = "./2D-pixel/2DDATA/M1/Games-exe/";
+      });
+      document.querySelector(".WEB").addEventListener("click", () => {
+        window.location = "https://loines.ch";
+      });
+    </script>
+  </body>
+</html>
